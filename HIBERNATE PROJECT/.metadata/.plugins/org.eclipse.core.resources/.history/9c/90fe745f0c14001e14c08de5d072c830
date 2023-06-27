@@ -1,0 +1,13 @@
+package org.kodnest.HibernateDaoPattern;
+
+import java.util.List;
+
+public class App {
+  public static void main(String[] args) {
+EmployeeDAOImplement ref=new EmployeeDAOImplement();
+List<Employee> Emplist=ref.getEmployees();
+for (Employee employee : Emplist) {
+	System.out.println(employee);
+}
+  }
+}

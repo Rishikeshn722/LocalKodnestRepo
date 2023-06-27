@@ -1,0 +1,5 @@
+package org.kodnest.HibernateDaoPattern;
+
+public class EmployeeDaoImplement {
+
+}

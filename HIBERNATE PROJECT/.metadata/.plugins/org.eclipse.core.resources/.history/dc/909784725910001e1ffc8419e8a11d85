@@ -1,0 +1,5 @@
+package org.kodnest.HibernateUpdate;
+
+public class Employee {
+
+}

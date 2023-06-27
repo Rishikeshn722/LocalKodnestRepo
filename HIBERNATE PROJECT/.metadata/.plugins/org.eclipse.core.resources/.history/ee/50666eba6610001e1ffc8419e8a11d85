@@ -1,0 +1,5 @@
+package org.kodnest.HibernateOneToOne;
+
+public class Address {
+
+}
